@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="393px" height="364px" viewBox="0 0 393 364" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>share-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="share-icon" fill="#666666" fill-rule="nonzero">
+            <path d="M349,82 L292,82 C212,82 173,144 173,217 C173,224 168,230 161,230 C154,230 148,224 148,217 C148,130 198,56 292,56 L349,56 L315,22 C310,17 310,9 315,4 C319,-1 328,-1 332,4 L389,60 C394,65 394,73 389,78 L332,134 C328,139 319,139 315,134 C310,129 310,121 315,116 L349,82 Z" id="Path"></path>
+            <path d="M309,188 C309,181 315,176 322,176 C329,176 334,181 334,188 L334,299 C334,335 305,364 269,364 L65,364 C29,364 0,335 0,299 L0,95 C0,59 29,30 65,30 L175,30 C182,30 188,36 188,43 C188,50 182,55 175,55 L65,55 C43,55 25,73 25,95 L25,299 C25,321 43,339 65,339 L269,339 C291,339 309,321 309,299 L309,188 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

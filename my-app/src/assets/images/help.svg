@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Help" transform="translate(-35 -556)">
+    <text id="_" data-name="?" transform="translate(41 571)" fill="#10205b" font-size="14" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+    <g id="Ellipse_80" data-name="Ellipse 80" transform="translate(35 556)" fill="none" stroke="#10205b" stroke-linecap="round" stroke-width="2">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9" fill="none"/>
+    </g>
+  </g>
+</svg>

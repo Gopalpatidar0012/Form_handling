@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Cases" transform="translate(-35 -165)">
+    <g id="Group_281273" data-name="Group 281273" transform="translate(1 1)">
+      <line id="Line_398" data-name="Line 398" x2="9" transform="translate(39.5 175)" fill="none" stroke="#10205b" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_405" data-name="Line 405" x2="3" transform="translate(39.5 171)" fill="none" stroke="#10205b" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_399" data-name="Line 399" x2="6" transform="translate(39.5 179)" fill="none" stroke="#10205b" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_281282" data-name="Group 281282" transform="translate(35 165)">
+      <g id="Group_281277" data-name="Group 281277">
+        <g id="Path_111803" data-name="Path 111803" transform="translate(-1842.247 5118)" fill="none" stroke-linecap="round">
+          <path d="M1842.247-5118v20h20v-13.792l-6.059-6.208Z" stroke="none"/>
+          <path d="M 1844.2470703125 -5116 L 1844.2470703125 -5100 L 1860.2470703125 -5100 L 1860.2470703125 -5110.97802734375 L 1855.345825195312 -5116 L 1844.2470703125 -5116 M 1842.2470703125 -5118 L 1856.1884765625 -5118 L 1862.2470703125 -5111.79248046875 L 1862.2470703125 -5098 L 1842.2470703125 -5098 L 1842.2470703125 -5118 Z" stroke="none" fill="#10205b"/>
+        </g>
+        <path id="Path_111804" data-name="Path 111804" d="M1861.991-5117.724v5.531h5.755" transform="translate(-1849 5118.863)" fill="none" stroke="#10205b" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

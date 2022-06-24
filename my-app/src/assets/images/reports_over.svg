@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Reports_over" transform="translate(-35 -299)">
+    <g id="Group_281277" data-name="Group 281277" transform="translate(35 299)">
+      <g id="Path_111803" data-name="Path 111803" transform="translate(-1842.247 5118)" fill="none" stroke-linecap="round">
+        <path d="M1862.247-5118v20h-20v-13.792l6.059-6.208Z" stroke="none"/>
+        <path d="M 1849.148315429688 -5116 L 1844.2470703125 -5110.97802734375 L 1844.2470703125 -5100 L 1860.2470703125 -5100 L 1860.2470703125 -5116 L 1849.148315429688 -5116 M 1848.3056640625 -5118 L 1862.2470703125 -5118 L 1862.2470703125 -5098 L 1842.2470703125 -5098 L 1842.2470703125 -5111.79248046875 L 1848.3056640625 -5118 Z" stroke="none" fill="#f4b832"/>
+      </g>
+      <path id="Path_111804" data-name="Path 111804" d="M1867.746-5117.724v5.531h-5.755" transform="translate(-1860.737 5118.863)" fill="none" stroke="#f4b832" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_281278" data-name="Group 281278" transform="translate(0.421)">
+      <path id="Path_1133" data-name="Path 1133" d="M5.79,2.884,2.909,0,0,2.909" transform="translate(47.311 305.259) rotate(45)" fill="none" stroke="#f4b832" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_111805" data-name="Path 111805" d="M1852.282-5102.325l1.884-1.8,1.884,1.8,6.007-6.69" transform="translate(-1812.978 5416.584)" fill="none" stroke="#f4b832" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
